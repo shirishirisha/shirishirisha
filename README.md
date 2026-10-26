@@ -91,10 +91,10 @@
 
 ---
 
-## 🐍 Contributions
+## 🐍 Contribution's
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shirishirisha/shirishirisha/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shirishirisha/shirishirisha/main/snake-2025.svg" alt="Snake animation 2025" />
 </p>
 
 <p align="center">
