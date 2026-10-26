@@ -91,18 +91,6 @@
 
 ---
 
-## 🐍 Contribution's
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shirishirisha/shirishirisha/main/snake-2025.svg" alt="Snake animation 2025" />
-</p>
-
-<p align="center">
-  <i>⚡ Watch the snake eat my contributions — just like I devour bugs in production! 🐛</i>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -117,47 +105,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shirishirisha&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Laravel / WordPress Developer — Haytat (Buildmetrix)
-`03/2024 – Present | Remote`
-- 🏗️ Architected enterprise-grade **CRM & CMS platforms** for leading real estate clients
-- 🔐 Designed secure **RESTful APIs with JWT authentication** serving Flutter mobile apps
-- 💳 Integrated **payment gateways** & **Firebase push notifications**
-- 👥 Mentored junior developers and conducted code reviews
-
-### 🏢 PHP Developer — PrimeDigiLeads
-`11/2022 – 01/2024 | Remote`
-- 🌐 Developed dynamic **WordPress websites** and web applications for diverse clients
-- ⚡ Optimized website performance — faster load times & improved SEO rankings
-- 📱 Ensured responsive design & cross-browser compatibility
-
-### 🏢 WordPress Developer — Zenotech Services
-- 🎨 Designed responsive WordPress websites across multiple industries
-- 🔧 Customized themes & plugins to meet business requirements
-- 🚀 Managed FTP deployment, DB administration & troubleshooting
-
----
-
-## 🌟 Featured Projects
-
-| 🚀 Project | 🛠️ Tech Stack | 📝 Description |
-|-----------|--------------|----------------|
-| **Haybat CRM & CMS** | Laravel, REST APIs, MySQL, JWT | Enterprise multi-tenant CRM/CMS for real estate |
-| **Shriram Properties Booking** | Laravel, Payment Gateway, CRM | Online booking platform with payment integration |
-| **Sowparnika Mobile App** | Laravel, Firebase, Flutter APIs | Customer app for bookings & support |
-| **Right Hand** | Laravel, Firebase, Flutter APIs | Construction project management ecosystem |
-| **House of Haybat** | Laravel, Firebase, Flutter APIs | Unified PropTech platform (India & UAE) |
-| **Century Real Estate App** | Laravel, Firebase, Flutter APIs | Customer mobile app with real-time updates |
-| **Image Core Labs** | Laravel, WordPress | Healthcare diagnostics platform |
-| **Eradsol** | WordPress, Payment Integration | E-learning platform |
-| **Muhurtham Silk** | WordPress, Payment Integration | Premium silk saree e-commerce |
-| **JOBMint** | WordPress, AI Integration | AI-powered job search platform |
-
-> 📱 **4+ Flutter apps live on Google Play Store** | 🌐 **20+ production websites delivered**
 
 ---
 
